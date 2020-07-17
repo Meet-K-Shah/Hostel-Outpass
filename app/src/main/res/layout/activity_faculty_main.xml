@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".FacultyMainActivity">
+
+    <View
+        android:layout_marginRight="40dp"
+        android:layout_marginLeft="40dp"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@color/white"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Hostel Outpassess"
+        android:gravity="center_horizontal"
+        android:textColor="@color/black"
+        android:textSize="36dp"/>
+
+    <View
+        android:layout_marginRight="40dp"
+        android:layout_marginLeft="40dp"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:background="@color/white"/>
+
+    <Button
+        android:id="@+id/entries"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="New Entries"
+        android:textSize="45dp"
+        android:layout_gravity="center_horizontal"/>
+
+    <Button
+        android:id="@+id/request"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="New Requests"
+        android:textSize="45dp"
+        android:layout_gravity="center_horizontal"/>
+
+
+</LinearLayout>

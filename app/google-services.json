@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1098871064080",
+    "firebase_url": "https://hostel-outpasses.firebaseio.com",
+    "project_id": "hostel-outpasses",
+    "storage_bucket": "hostel-outpasses.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1098871064080:android:ed7780d00c2a6f0637ac95",
+        "android_client_info": {
+          "package_name": "com.example.hosteloutpass"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1098871064080-efcrcptiakklf91273gv7jobnjhu1rt1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hosteloutpass",
+            "certificate_hash": "09cc433fd0d28d4bbcaa7b84d7aed7bd61e4db07"
+          }
+        },
+        {
+          "client_id": "1098871064080-i4ltb3rd8tgg35hlr62d5t2gqhjqkp2c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBC3An4gwbGR5nTmhMJaanwmN3g8QuoQcI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1098871064080-i4ltb3rd8tgg35hlr62d5t2gqhjqkp2c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
